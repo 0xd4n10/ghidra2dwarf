@@ -1,5 +1,7 @@
 # Ghidra2Dwarf
 
+UPDATED FORK TO WORK ON 11.x
+
 ![](./img/ghidra2dwarf.png)
 
 Inspired by: [dwarfexport](https://github.com/ALSchwalm/dwarfexport)
